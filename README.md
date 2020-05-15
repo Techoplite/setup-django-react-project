@@ -30,5 +30,5 @@ The project structure is the following:
 3. From here, create an object by sending a POST request
 4. Refresh your localhost and you should see the newly created object.
 
-#### *__From here on there should be no problems, just remember to chang the `test_app` name and the model references accordingly with your first app name, or create a new app by following the structure of the `test_app` directory.__*
+#### *__From here on there should be no problems, just remember to change the `test_app` name and the model references accordingly with your first app name, or create a new app by following the structure of the `test_app` directory.__*
 
